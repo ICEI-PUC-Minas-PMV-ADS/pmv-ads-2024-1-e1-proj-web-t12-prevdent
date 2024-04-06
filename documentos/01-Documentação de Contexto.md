@@ -21,9 +21,7 @@ B) substituição de componentes antes do fim da vida útil prevenindo dano pelo
 C) planejamento da substituição do equipamento como um todo ou parte deste, no próprio local ou fora das instalações, conforme necessário. Falhas ocasionam algum impacto no faturamento em postos de serviço odontológico, pois geram retrabalho para o dentista que tem parte de seu tempo que deveria ser produtivo, indisponível para o trabalho (SAN JUAN, 2018). ]
 
 ## Problema
-[Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
-
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+O problema que se apresenta, e que este projeto visa abordar, é a dificuldade de gestão da manutenção preventiva e corretiva dos equipamentos do consultório odontológico, enfrentada pelos dentistas e suas equipes referente ao planejamento com os prazos de realização, o tipo de manutenção a ser realizada, entre outros
 
 
 ## Objetivos
