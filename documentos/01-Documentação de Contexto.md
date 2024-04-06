@@ -1,6 +1,24 @@
 # Introdução
 
-[Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
+[A Odontologia é uma atividade profissional manual, altamente dependente de equipamentos especializados, envolvidos diretamente no processo principal de atendimento odontológico e indiretamente nos processos secundários que fornecem os insumos necessários como, por exemplo, ar comprimido para o funcionamento dos principais equipamentos. 
+
+ 
+
+“Defeitos em máquinas, equipamentos ou em processos são fonte de prejuízos para clínicas e consultórios odontológicos, caso estes venham apresentar falhas de funcionamento ou simplesmente deixem de cumprir a função fim.” 
+
+ 
+
+Por se tratar de uma atividade altamente complexa envolvendo inúmeras etapas, materiais, insumos, produtos, o profissional da área e sua equipe são absorvidos em tempo integral, negligenciando por vezes a manutenção preventiva e corretiva de equipamentos numa clínica odontológica. 
+
+ 
+
+Tais manutenções já são usufruídas pela indústria que visam programar paradas em equipamentos ou processos antes que falhas ocorram. Estas programações levam em consideração:  
+
+A) o tempo que o equipamento ou processo deverá ficar parado para a execução de ajustes de variáveis de processo; 
+
+B) substituição de componentes antes do fim da vida útil prevenindo dano pelo uso; 
+
+C) planejamento da substituição do equipamento como um todo ou parte deste, no próprio local ou fora das instalações, conforme necessário. Falhas ocasionam algum impacto no faturamento em postos de serviço odontológico, pois geram retrabalho para o dentista que tem parte de seu tempo que deveria ser produtivo, indisponível para o trabalho (SAN JUAN, 2018). ]
 
 ## Problema
 [Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
