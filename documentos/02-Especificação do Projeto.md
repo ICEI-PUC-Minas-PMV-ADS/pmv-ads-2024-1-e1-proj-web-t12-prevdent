@@ -93,7 +93,7 @@ Acompanhamento dos prazos de entrega de equipamentos enviados externamente.
 
 | EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| Proprietário 1            | quero que o sistema mantenha um histórico dos custos financeiros o serviço de manutenção                         | Para diminuir os custos de uma manutenção corretiva, tendo maior controle dos seus gastos.             | Proprietário 2            | preciso que o sistema estabeleça um calendário de manutenção preventiva                          | Para evitar perda de consultas e evitar transtornos com cliente.   
+| Proprietário 1            | quero que o sistema mantenha um histórico dos custos financeiros o serviço de manutenção                         | Para diminuir os custos de uma manutenção corretiva, tendo maior controle dos seus gastos.             | Proprietário 2            | preciso que o sistema estabeleça um calendário de manutenção preventiva                                          | Para evitar perda de consultas e evitar transtornos com cliente.   
 | Dentista 1             | preciso que o sistema avise o momento de lubrificar a caneta de auto-rotação periodicamente                          | Para evitar a troca do rolamento que é caro.  
 | Dentista 2             | que registre o histórico das manutenções realizadas                          | Evitar manutenção corretiva do compressor. 
 | Dentista 3             | que a aplicação me avise com antecedência de x meses o momento de trocar a autoclave                           | Evitar um custo inesperado ao trocar o equipamento por uma questão de segurança  
