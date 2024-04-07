@@ -14,7 +14,7 @@
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>Cadastramento do profissional. 
+<td>Cadastramento do profissional.<br> 
   
 Cadastramento, atualização e edição dos equipamentos da clínica. 
 
