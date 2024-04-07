@@ -63,7 +63,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | http://....                            |
+| Repositório de código fonte         | GitHub                             | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/teams/prevdent                            |
 | Documentos do projeto               | GitHub                             | http://....                            |
 | Projeto de Interface                | Figma                              | http://....                            |
 | Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
