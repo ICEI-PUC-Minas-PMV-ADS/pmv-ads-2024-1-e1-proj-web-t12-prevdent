@@ -43,9 +43,7 @@ Definição da contratação de serviço externo.
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>Cadastramento do profissional 
-
-<br/>Atualização e edição dos equipamentos da clínica. 
+<td>Cadastramento do profissional <br/>Atualização e edição dos equipamentos da clínica. 
 
 Futuras manutenções agendadas. 
 
