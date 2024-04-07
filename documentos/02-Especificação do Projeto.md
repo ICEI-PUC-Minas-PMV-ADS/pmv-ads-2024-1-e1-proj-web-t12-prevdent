@@ -14,18 +14,18 @@
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>Cadastramento do profissional.
-Cadastramento, atualização e edição dos equipamentos da clínica. 
+<td>Cadastramento do profissional.</br>
+</br>Cadastramento, atualização e edição dos equipamentos da clínica. 
 
-Definição da matriz hierárquica de utilização do sistema. 
+</br>Definição da matriz hierárquica de utilização do sistema. 
 
-Futuras manutenções agendadas. 
+</br>Futuras manutenções agendadas. 
 
-Consultas de histórico de manutenções realizadas. 
+</br>Consultas de histórico de manutenções realizadas. 
 
-Contato com fabricante. 
+</br>Contato com fabricante. 
 
-Definição da contratação de serviço externo. 
+</br>Definição da contratação de serviço externo. 
 </td>
 </tr>
 </tbody>
