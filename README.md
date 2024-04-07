@@ -4,22 +4,22 @@
 
 `Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`1º semestre de 2024`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Robson de Andrade Ávila
-* Nome completo do aluno 6
+* Alana Barros Carvalho
+* Andre Tobias Souza da Silva
+* Heitor Mendes Cardoso
+* José Rodrigues Campos Silva
+* Luiz Paulo da Silva Duarte
+* Robson de Andrade Avila
 
 ## Orientador
 
-* Nome completo do professor
+* Pedro Felipe Alves de Oliveira
 
 # Documentação
 
