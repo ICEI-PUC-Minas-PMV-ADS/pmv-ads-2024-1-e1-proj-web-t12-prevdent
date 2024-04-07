@@ -14,8 +14,8 @@
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>Cadastramento do profissional.<br> 
-  
+<td>Cadastramento do profissional.
+<br>  
 Cadastramento, atualização e edição dos equipamentos da clínica. 
 
 Definição da matriz hierárquica de utilização do sistema. 
