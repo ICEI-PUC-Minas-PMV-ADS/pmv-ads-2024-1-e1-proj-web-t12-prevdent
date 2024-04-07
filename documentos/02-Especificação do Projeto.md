@@ -2,24 +2,94 @@
 
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
 
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </th>
+<th colspan="2">Proprietário </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">...</td>
+<td width="600px">Proprietário da clínica e/ou Profissionais da área</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>Cadastramento do profissional. 
+  
+Cadastramento, atualização e edição dos equipamentos da clínica. 
+
+Definição da matriz hierárquica de utilização do sistema. 
+
+Futuras manutenções agendadas. 
+
+Consultas de histórico de manutenções realizadas. 
+
+Contato com fabricante. 
+
+Definição da contratação de serviço externo. 
+</td>
 </tr>
 </tbody>
 </table>
 
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Dentista </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Profissionais da área</td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>Cadastramento do profissional 
+
+Atualização e edição dos equipamentos da clínica. 
+
+Futuras manutenções agendadas. 
+
+Consultas de histórico de manutenções realizadas. 
+
+Contato com fabricante.  
+
+Solicitação de orçamentos a empresas terceiras.   
+
+Solicitação do envio de equipamentos defeituosos para manutenção corretiva.  
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Equipe de Apoio </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">ASB (Auxiliar de Saúde Bucal), THD (Técnico em Higiene Dental), TSB (Técnico de Saúde Bucal), Secretaria </td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>
+Atualização e edição dos equipamentos da clínica 
+
+Futuras manutenções agendadas. 
+
+Consultas de histórico de manutenções realizadas. 
+
+Contato com fabricante.  
+
+Solicitação de orçamentos a empresas terceiras.    
+
+Envio de equipamentos defeituosos para manutenção externa. 
+
+Acompanhamento dos prazos de entrega de equipamentos enviados externamente. 
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Histórias de Usuários
 
@@ -30,7 +100,7 @@
 
 [Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
 
-|EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
+| EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
 | ...                | ...                       | ...                              |
 | ...                | ...                       | ...                              |
