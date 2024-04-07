@@ -93,16 +93,9 @@ Acompanhamento dos prazos de entrega de equipamentos enviados externamente.
 
 ## Histórias de Usuários
 
-[Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
-
-> **Link Útil**:
-> - [Como escrever boas histórias de usuário](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
-[Utilize o modelo de tabela abaixo para apresentar as histórias de usuários.]
-
 | EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
+| PROPRIETÁRIO 1            | quero que o sistema mantenha um histórico dos custos financeiros o serviço de manutenção                         | Para diminuir os custos de uma manutenção corretiva, tendo maior controle dos seus gastos.                               |
 | ...                | ...                       | ...                              |
 
 ## Requisitos do Projeto
