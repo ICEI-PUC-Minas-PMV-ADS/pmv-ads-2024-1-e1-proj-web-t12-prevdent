@@ -92,10 +92,10 @@ Acompanhamento dos prazos de entrega de equipamentos enviados externamente.
 
 | EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| Proprietário 1            | quero que o sistema mantenha um histórico dos custos financeiros o serviço de manutenção                         | Para diminuir os custos de uma manutenção corretiva, tendo maior controle dos seus gastos.   
-| Proprietário 2            | preciso que o sistema estabeleça um calendário de manutenção preventiva                          | Para evitar perda de consultas e evitar transtornos com cliente.     
+| Proprietário 1            | quero que o sistema mantenha um histórico dos custos financeiros do serviço de manutenção com terceiros                       | Para diminuir os custos de uma manutenção corretiva, tendo maior controle dos meus gastos.   
+| Proprietário 2            | preciso que o sistema estabeleça um calendário de manutenção preventiva                          | Para evitar a desmarcação de pacientes, perda de consultas e transtornos com clientes.     
 | Dentista 1             | preciso que o sistema avise o momento de lubrificar a caneta de auto-rotação periodicamente                          | Para evitar a troca do rolamento que é caro.  
-| Dentista 2             | que registre o histórico das manutenções realizadas                          | Evitar manutenção corretiva do compressor. 
+| Dentista 2             | que mantenha um calendário e registre o histórico das manutenções realizadas                          | Evitar manutenção corretiva do compressor, parada do equipamento e desmarcação de pacientes. 
 | Dentista 3             | que a aplicação me avise com antecedência de x meses o momento de trocar a autoclave                           | Evitar um custo inesperado ao trocar o equipamento por uma questão de segurança  
 | Equipe de Apoio 1             | Quero ser avisada quando chegar o momento de cada manutenção preventiva.                          | Facilitar o trabalho    
 | Equipe de Apoio 2             | Preciso consultar o histórico das manutenções realizadas                          | Comprovar históricos anteriores de serviços prestados 
@@ -103,11 +103,7 @@ Acompanhamento dos prazos de entrega de equipamentos enviados externamente.
 
 ## Requisitos do Projeto
 
-[Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
-
 ### Requisitos Funcionais
-
-[Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
@@ -131,8 +127,6 @@ Acompanhamento dos prazos de entrega de equipamentos enviados externamente.
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
-
-[Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
