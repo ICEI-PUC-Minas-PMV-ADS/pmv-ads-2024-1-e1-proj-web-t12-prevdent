@@ -6,7 +6,7 @@
 
 `1º semestre de 2024`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O projeto envolve a criação de uma aplicação web de fácil acesso e uso que permita aos cirurgiões dentistas, empresários, a gestão da manutenção preventiva e corretiva dos seus equipamentos na rotina diária dos consultórios e clínicas odontológicas.
 
 ## Integrantes
 
