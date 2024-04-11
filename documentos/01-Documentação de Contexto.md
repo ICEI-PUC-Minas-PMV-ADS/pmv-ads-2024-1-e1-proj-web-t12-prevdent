@@ -18,7 +18,7 @@ O problema que se apresenta, e que este projeto visa abordar, é a dificuldade d
 
 ## Objetivos
 
-O objetivo geral deste projeto é o desenvolvimento de uma solução de fácil uso que permita ao dentista o fácil planejamento da manutenção preventiva e corretiva dos equipamentos de um consultório ou clínica odontológica a fim de facilitar a sua execução. 
+O objetivo geral deste projeto é o desenvolvimento de uma solução de fácil uso que permita ao dentista o fácil planejamento, gestão e monitoramento da manutenção preventiva e corretiva dos equipamentos de um consultório ou clínica odontológica a fim de facilitar a sua execução. 
 
 Como objetivos específicos, podemos destacar: 
 
