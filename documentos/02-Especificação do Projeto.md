@@ -92,14 +92,14 @@ Acompanhamento dos prazos de entrega de equipamentos enviados externamente.
 
 | EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| Proprietário 1            | quero que o sistema mantenha um histórico dos custos financeiros do serviço de manutenção com terceiros                       | Para diminuir os custos de uma manutenção corretiva, tendo maior controle dos meus gastos.   
-| Proprietário 2            | preciso que o sistema estabeleça um calendário de manutenção preventiva                          | Para evitar a desmarcação de pacientes, perda de consultas e transtornos com clientes.     
-| Dentista 1             | preciso que o sistema avise o momento de lubrificar a caneta de auto-rotação periodicamente                          | Para evitar a troca do rolamento que é caro.  
-| Dentista 2             | que mantenha um calendário e registre o histórico das manutenções realizadas                          | Evitar manutenção corretiva do compressor, parada do equipamento e desmarcação de pacientes. 
-| Dentista 3             | que a aplicação me avise com antecedência de x meses o momento de trocar a autoclave                           | Evitar um custo inesperado ao trocar o equipamento por uma questão de segurança  
-| Equipe de Apoio 1             | Quero ser avisada quando chegar o momento de cada manutenção preventiva.                          | Facilitar o trabalho    
+| Proprietário 1            | Quero que o sistema mantenha um histórico dos custos financeiros do serviço de manutenção com terceiros                       | Para diminuir os custos de uma manutenção corretiva, tendo maior controle dos meus gastos.   
+| Proprietário 2            | Preciso que o sistema estabeleça um calendário de manutenção preventiva                          | Para evitar a desmarcação de pacientes, perda de consultas e transtornos com clientes.     
+| Dentista 1             | Necessito que o sistema avise o momento de lubrificar a caneta de auto-rotação periodicamente                          | Para evitar a troca do rolamento que é caro.  
+| Dentista 2             | Quero que o sistema mantenha um calendário e registre o histórico das manutenções realizadas                          | Evitar manutenção corretiva do compressor, parada do equipamento e desmarcação de pacientes. 
+| Dentista 3             | Necessito que a aplicação me avise com antecedência de x meses o momento de trocar a autoclave                           | Evitar um custo inesperado ao trocar o equipamento por uma questão de segurança  
+| Equipe de Apoio 1             | Desejo ser avisada quando chegar o momento de cada manutenção preventiva.                          | Facilitar o trabalho    
 | Equipe de Apoio 2             | Preciso consultar o histórico das manutenções realizadas                          | Comprovar históricos anteriores de serviços prestados 
-| Equipe de Apoio 3             | Eu quero que recalcule as datas da manutenção preventiva após a realização de uma manutenção corretiva.                          | Recalcular datas previstas de manutenção de acordo com a execução. 
+| Equipe de Apoio 3             | Eu quero que o sistema recalcule as datas da manutenção preventiva após a realização de uma manutenção corretiva.                          | Recalcular datas previstas de manutenção de acordo com a execução. 
 
 ## Requisitos do Projeto
 
