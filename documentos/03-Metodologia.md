@@ -1,27 +1,18 @@
 
 # Metodologia
 
-Esta seção descreve a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
-
-
 ## Gerenciamento de Projeto
-A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
+A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam López-Martínez, Juárez-Jamírez, Huertas (2016): As metodologias ágeis têm sido especialmente úteis em projetos com as seguintes características: equipes pequenas, calendários de desenvolvimento curtos, mudanças constantes nos requisitos, sistemas baseados em novas tecnologias.
 
-“visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
+LÓPEZ-MARTÍNEZ, Janeth et al. Problems in the adoption of agile-scrum methodologies: A systematic literature review. In: 2016 4th international conference in software engineering research and innovation (conisoft). IEEE, 2016. p. 141-148.
 
 ### Divisão de Papéis
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
 - Scrum Master: Luiz Paulo Duarte
 - Product Owner: Robson de Andrade Avila
 - Equipe de Desenvolvimento: Alana Barros, Andre Tobias, Heitor Mendes, Luiz Paulo Duarte e Robson de Andrade
 - Equipe de Design: Alana Barros, Andre Tobias, Heitor Mendes, Luiz Paulo Duarte e Robson de Andrade Avila
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ### Processo
 
