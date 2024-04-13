@@ -18,6 +18,20 @@ Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/assets/164085443/c32abbe3-a32d-4f75-835c-a71739d66e7b)
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/assets/164085443/d225634f-8201-45b4-81ed-053901318df5)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/assets/164085443/6e7a8a58-3b46-4dd5-9180-cbfe3006d7e3)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/assets/164085443/6449be30-3dde-486f-a32e-668028369b50)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/assets/164085443/31a2c704-99ba-4385-b67e-64ecb9064e73)
+
+- Nesta página temos a opção de realizar o cadastro do usuário no qual está acessando a plataforma pela primeira vez, assim adquirimos alguns dados importantes além de seu nível de acesso (Proprietário, profissional ou auxiliar de saúde bucal) 
+
+
+
+
+
 
 ### Protótipo de baixa fidelidade
 
