@@ -13,7 +13,6 @@ O projeto envolve a criação de uma aplicação web de fácil acesso e uso que 
 * Alana Barros Carvalho
 * Andre Tobias Souza da Silva
 * Heitor Mendes Cardoso
-* José Rodrigues Campos Silva
 * Luiz Paulo da Silva Duarte
 * Robson de Andrade Avila
 
