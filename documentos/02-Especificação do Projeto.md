@@ -42,17 +42,18 @@
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>Cadastramento do profissional <br/>Atualização e edição dos equipamentos da clínica. 
+<td>Cadastramento do profissional <br/>
+</br>Atualização e edição dos equipamentos da clínica. 
 
-Futuras manutenções agendadas. 
+</br>Futuras manutenções agendadas. 
 
-Consultas de histórico de manutenções realizadas. 
+</br>Consultas de histórico de manutenções realizadas. 
 
-Contato com fabricante.  
+</br>Contato com fabricante.  
 
-Solicitação de orçamentos a empresas terceiras.   
+</br>Solicitação de orçamentos a empresas terceiras.   
 
-Solicitação do envio de equipamentos defeituosos para manutenção corretiva.  
+</br>Solicitação do envio de equipamentos defeituosos para manutenção corretiva.  
 </td>
 </tr>
 </tbody>
@@ -70,19 +71,19 @@ Solicitação do envio de equipamentos defeituosos para manutenção corretiva.
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-Atualização e edição dos equipamentos da clínica 
+</br>Atualização e edição dos equipamentos da clínica 
 
-Futuras manutenções agendadas. 
+</br>Futuras manutenções agendadas. 
 
-Consultas de histórico de manutenções realizadas. 
+</br>Consultas de histórico de manutenções realizadas. 
 
-Contato com fabricante.  
+</br>Contato com fabricante.  
 
-Solicitação de orçamentos a empresas terceiras.    
+</br>Solicitação de orçamentos a empresas terceiras.    
 
-Envio de equipamentos defeituosos para manutenção externa. 
+</br>Envio de equipamentos defeituosos para manutenção externa. 
 
-Acompanhamento dos prazos de entrega de equipamentos enviados externamente. 
+</br>Acompanhamento dos prazos de entrega de equipamentos enviados externamente. 
 </td>
 </tr>
 </tbody>
