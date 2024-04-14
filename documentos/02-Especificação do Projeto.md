@@ -71,7 +71,7 @@
 <tr>
 <td><b>Necessidades</b></td>
 <td>
-</br>Atualização e edição dos equipamentos da clínica 
+</br>Atualização e edição dos equipamentos da clínica. 
 
 </br>Futuras manutenções agendadas. 
 
