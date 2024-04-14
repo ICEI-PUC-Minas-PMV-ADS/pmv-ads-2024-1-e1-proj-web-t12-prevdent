@@ -4,7 +4,7 @@
 
 1. Apresentação de slides (Etapa 1)
 
-[Apresentação - Prevdent.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/apresentacao/PREVDENT%20ATM-compactado.pdf)
+[Apresentação - Prevdent.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/PREVDENT%20MTV1-compactado.pdf)
 
 
 A apresentação do projeto consiste na geração de um conjunto de slides em um arquivo no formato ppt, pptx ou pdf, contemplando os seguintes itens:
