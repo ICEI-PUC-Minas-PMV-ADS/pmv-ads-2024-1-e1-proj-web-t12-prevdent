@@ -14,7 +14,7 @@ O projeto envolve a criação de uma aplicação web de fácil acesso e uso que 
 * Andre Tobias Souza da Silva
 * Heitor Mendes Cardoso
 * Luiz Paulo da Silva Duarte
-* Robson de Andrade Avila
+* Pedro Henrique Miguel Bullara Lemos
 
 ## Orientador
 
