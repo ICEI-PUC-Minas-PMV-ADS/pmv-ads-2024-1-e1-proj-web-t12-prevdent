@@ -10,7 +10,7 @@ LÓPEZ-MARTÍNEZ, Janeth et al. Problems in the adoption of agile-scrum methodol
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
 - Scrum Master: Luiz Paulo Duarte
-- Product Owner: Robson de Andrade Avila
+- Product Owner: A definir
 - Equipe de Desenvolvimento: Alana Barros, Andre Tobias, Heitor Mendes, Luiz Paulo Duarte e Pedro Henrique Miguel Bullara Lemos
 - Equipe de Design: Alana Barros, Andre Tobias, Heitor Mendes, Luiz Paulo Duarte e Pedro Henrique Miguel Bullara Lemos
 
