@@ -13,6 +13,14 @@ O site em HTML/CSS/JS é um projeto estático. É necessário implantá-lo em um
 
 ## Histórico de versões
 
-### [0.1.0] - DD/MM/AAAA
-#### Adicionado/Atualizado/Removido
-- Relação de artefatos ...
+### [1.0] - 05/05/2024
+#### Adicionado
+- Criação do primeiro layout do site, utilizando HTML, CSS e Bootstrap. Foi adicionado imagens referentes aos nossos parceiros, criado o sistema de cadastro de usuário e cadastro de equipamentos.
+
+### [1.1] - 06/05/2024
+#### Atualizado
+- Alterado o layout da página inicial, buscando ser mais "user friendly".
+
+### [1.2] - 08/05/2024
+#### Adicionado
+- Adicionado Java Script no site, criando uma maior interação e fluxo de informações contínuo.
