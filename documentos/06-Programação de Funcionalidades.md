@@ -1,6 +1,46 @@
 # Programação de Funcionalidades
 
-Implementação da aplicação descritas por meio dos requisitos codificados. 
+
+
+### Cadastro de Equipamentos (RF-04)
+
+[Adicione imagem da funcionalidade/tela]
+
+
+#### Requisito atendido
+
+RF-04: A aplicação deve permitir ao usuário fazer o cadastro de equipamentos
+
+
+#### Artefatos da funcionalidade
+
+- cadEquip.html
+- main.css
+- button.css
+- records.css
+- modal.css
+- main.js
+
+
+#### Estrutura de Dados
+
+[cadEquip.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/cadastro%20equipamento/cadEquip.html)
+
+
+#### Instruções de acesso
+
+Ao abrir a tela inicial da aplicação [index.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/index/index.html), o usuário deve realizar seu cadastro e abrir a página de seu perfil. A opção "cadastro de equipamentos" estará na aba lateral esquerda. Clicando-se sobre ela, será aberta a janela dos equipamentos já cadastrados. Clicando-se em "cadastrar novo", "editar" ou "excluir", será aberta uma janela modal para o cadastro de novos equipamentos, bem como sua edição ou exclusão. Os dados ficam armazenados no localstorage.
+
+#### Responsável
+
+Heitor Cardoso
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 [Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
 
@@ -32,6 +72,8 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 #### Responsável
 
 [Adicione nome do responsável pelo desenvolvimento da funcionalidade]
+
+
 
 
 
