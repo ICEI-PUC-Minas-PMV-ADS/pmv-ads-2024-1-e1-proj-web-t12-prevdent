@@ -4,7 +4,7 @@
 
 ### Cadastro de Equipamentos (RF-04)
 
-[Adicione imagem da funcionalidade/tela]
+![Tela Cadastro Equipamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/documentos/img/TelaCadEquip.png)
 
 
 #### Requisito atendido
