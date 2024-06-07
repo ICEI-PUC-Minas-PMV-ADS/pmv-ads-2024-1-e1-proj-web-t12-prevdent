@@ -55,9 +55,23 @@ const updateTable = () => {
 
 updateTable()
 
-x
-x
-x
+const filterEquip = (term) => {
+    const dbEquip = readEquip();
+    const filteredEquip = dbEquip.filter(equip => {
+        return equip.nome.toLowerCase().includes(term.toLowerCase()) ||
+               equip.fab.toLowerCase().includes(term.toLowerCase());
+    });
+    return filteredEquip;
+};
+ 
+const handleSearch = () => {
+    const searchTerm = document.getElementById('searchInput').value;
+    const filteredEquip = filterEquip(searchTerm);
+    clearTable();
+    filteredEquip.forEach(createRow);
+};
+ 
+document.getElementById('searchInput').addEventListener('input', handleSearch);
 
 
 // Eventos
