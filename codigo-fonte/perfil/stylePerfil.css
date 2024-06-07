@@ -31,7 +31,7 @@
     justify-content: space-around;
     align-items: center;
     font-family: Arial, Helvetica, sans-serif;
-    background: #3E497A;
+    background: #0a1d07;
     height: 8vh;
   }
   
@@ -73,12 +73,13 @@
       right: 0;
       width: 50vw;
       height: 92vh;
-      background: #3E497A;
+      background: #0a1d07;
       flex-direction: column;
       align-items: center;
       justify-content: space-around;
       transform: translateX(100%);
       transition: transform 0.3s ease-in;
+      font-size: 20px;
     }
   
     .nav-list li {
@@ -120,9 +121,9 @@
   }
   
   body {
-      background: whitesmoke;
+      background: rgb(180, 223, 200);
       font-family: Arial, Helvetica, sans-serif;
-      color: #3E497A;
+      color: #0a1d07;
     }
     
     /* MENU */
@@ -150,24 +151,24 @@
     
     .profile-usermenu ul li {
       border-bottom: 1px solid #f0f4f7;
-      border: 1px solid #3E497A;
+      border: 1px solid #0a1d07;
       border-radius: 5px;
       list-style-type: none;
       padding: 10px 50px 10px 10px;
     }
     
     .profile-usermenu ul li a {
-      color: #3E497A;
+      color: #0a1d07;
       font-size: 14px;
     }
     
     img {
-      width: 20px;
+      width: 25px;
       padding-right: 10px;
     }
     
     .profile-usermenu ul li a:hover {
-      color: goldenrod;
+      color: rgb(50, 204, 20);
     }
     
     /* CONTEÚDO */
@@ -213,20 +214,20 @@
       padding: 8px;
     }
     
-    table tr:nth-child(even){background-color: #bbd8e2;}
+    table tr:nth-child(even){background-color: #ddeee2;}
     
-    table tr:hover {background-color: #81d3ee;}
+    table tr:hover {background-color: #b0e8a7;}
   
     /* CADASTRO */
     .cadastrar {
       font-size: 15px;
       font-family: Arial, Helvetica, sans-serif;
-      color: #3E497A;
+      color: #0a1d07;
       display: flexbox;
       text-align: left;
       line-height: 2;
       box-sizing: border-box;
-      border: 2px solid #3E497A;
+      border: 2px solid #0a1d07;
       border-radius: 10px;
       margin: 0 auto;
       padding: 10px 50px;
@@ -260,8 +261,8 @@
       height: 30px;
       background-color: white;
       padding: 3px;
-      border: 1px solid #3E497A;
-      color: #3E497A;
+      border: 1px solid #0a1d07;
+      color: #0a1d07;
       border-radius: 10px;
     }
   
@@ -272,8 +273,8 @@
       height: 30px;
       background-color: white;
       padding: 3px;
-      border: 1px solid #3E497A;
-      color: #3E497A;
+      border: 1px solid #0a1d07;
+      color: #0a1d07;
       border-radius: 10px;
     }
     
@@ -281,7 +282,7 @@
       align-items: center;
       font-size: 18px;
       color: whitesmoke;
-      background-color: #3E497A;
+      background-color: #0a1d07;
       margin: 20px;
       border-radius: 10px;
       padding: 5px 20px;
@@ -291,12 +292,12 @@
     #resumo {
       height: 10rem;
       width: 50rem;
-      border: 1px solid #3E497A;
+      border: 1px solid #0a1d07;
       border-radius: 10px;
     }
     
     .rodape {
-      background-color: #3E497A;
+      background-color: #1a4912;
       font-family: Arial, Helvetica, sans-serif;
       color: whitesmoke;
       font-size: 15px;
@@ -308,7 +309,7 @@
       width: 100%;
     }
   .rodape-perfil {
-      background-color: #3E497A;
+      background-color: #1a4912;
       font-family: Arial, Helvetica, sans-serif;
       color: whitesmoke;
       font-size: 15px;
