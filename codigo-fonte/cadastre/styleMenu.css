@@ -31,7 +31,7 @@
     justify-content: space-around;
     align-items: center;
     font-family: Arial, Helvetica, sans-serif;
-    background: #3E497A;
+    background: #0a1d07;
     height: 8vh;
   }
   
@@ -73,7 +73,7 @@
       right: 0;
       width: 50vw;
       height: 92vh;
-      background: #3E497A;
+      background: #0a1d07;
       flex-direction: column;
       align-items: center;
       justify-content: space-around;
@@ -123,7 +123,7 @@
   
   body {
     font-family: Arial, Helvetica, sans-serif;
-    background: whitesmoke;
+    background: rgb(180, 223, 200);
     color: #3E497A;
   }
   
@@ -180,7 +180,7 @@
   /* FOOTER - RODAPÉ */
   
   .rodape {
-    background-color: #3E497A;
+    background-color: #1a4912;
     font-family: Arial, Helvetica, sans-serif;
     color: whitesmoke;
     font-size: 15px;
