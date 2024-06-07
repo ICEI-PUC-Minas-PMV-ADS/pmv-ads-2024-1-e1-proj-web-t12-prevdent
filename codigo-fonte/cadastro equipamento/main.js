@@ -69,15 +69,17 @@ const saveClient = () => {
 
 const createRow = (equip, index) => {
     const newRow = document.createElement('tr')
+    const dataFormatada = new Date(equip.date).toLocaleDateString('pt-BR');
     newRow.innerHTML = `
         <td>${equip.nome}</td>
         <td>${equip.fab}</td>
-        <td>${equip.date}</td>
+        <td>${dataFormatada}</td>
         <td>${equip.period}</td>
         <td>
             <button type="button" class="button green" id="edit-${index}">Editar</button>
             <button type="button" class="button red" id="delete-${index}" >Excluir</button>
         </td>
+
     `
     document.querySelector('#tableEquip>tbody').appendChild(newRow)
 }
@@ -129,6 +131,13 @@ const editDelete = (event) => {
 
 updateTable()
 
+x
+x
+x
+
+    
+document.getElementById('searchInput').addEventListener('input', handleSearch);
+
 // Eventos
 document.getElementById('cadastrarCliente')
     .addEventListener('click', openModal)
@@ -144,3 +153,5 @@ document.querySelector('#tableEquip>tbody')
 
 document.getElementById('cancelar')
     .addEventListener('click', closeModal)
+
+
