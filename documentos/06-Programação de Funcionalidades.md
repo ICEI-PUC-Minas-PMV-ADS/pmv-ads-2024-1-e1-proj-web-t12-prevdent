@@ -1,13 +1,118 @@
 # Programação de Funcionalidades
 
+### Cadastro do Usuário (RF-01) - André
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/TelaCadastro.png)
 
 
-### Cadastro de Equipamentos (RF-04)
 
-![Tela Cadastro Equipamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/documentos/img/TelaCadEquip.png)
+#### Requisito atendido
+
+RF-01: A aplicação deve permitir ao usuário cadastrar uma conta
+
+
+#### Artefatos da funcionalidade
+
+- cadastre-se.html
+- cadastro.css
+- style-menu.css
+- script.js
+
+
+#### Estrutura de Dados
+
+[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/codigo-fonte/cadastre/cadastre-se.html)
+
+
+#### Instruções de acesso
+
+Ao abrir a tela inicial da aplicação [index.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/index/index.html), o usuário deve abrir a tela de cadastro na barra de navegação.
+#### Responsável
+
+André
+
 <br>
 <br>
-![Tela CRUD](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/documentos/img/EquipCRUD.png)
+<br>
+<br>
+
+### Login do Usuário (RF-02) - Alana
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/TelaLogin.png)
+
+
+
+#### Requisito atendido
+
+RF-02: A aplicação deve permitir ao usuário fazer o login da sua conta
+
+
+#### Artefatos da funcionalidade
+
+- login.html
+- style-login.css
+- script-login.js
+
+
+#### Estrutura de Dados
+
+[login.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/login/login.html)
+
+
+#### Instruções de acesso
+
+Ao abrir a tela inicial da aplicação [index.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/index/index.html), o usuário deve realizar seu cadastro e posteriormente realizar seu login para que sejam liberadas as funcionalidade da aplicação.
+#### Responsável
+
+Alana
+
+<br>
+<br>
+<br>
+<br>
+
+### Página Perfil (RF-10) - Luiz
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/TelaPerfil.png)
+
+
+
+#### Requisito atendido
+
+RF-10: A aplicação deve permitir ao usuário verificar as informações registradas no cadastro na página Perfil, após fazer seu login
+
+
+#### Artefatos da funcionalidade
+
+- perfil.html
+- stylePerfil.css
+- perfil.js
+
+
+#### Estrutura de Dados
+
+[perfil.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/codigo-fonte/perfil/perfil.html)
+
+
+#### Instruções de acesso
+
+Ao abrir a tela inicial da aplicação [index.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/index/index.html), o usuário deve realizar seu cadastro e posteriormente seu login. Automaticamente ele será direcionado para a página de perfil.
+#### Responsável
+
+Luiz
+
+<br>
+<br>
+<br>
+<br>
+
+
+### Cadastro de Equipamentos (RF-04) - Heitor
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/CadEquip.png)
+<br>
+<br>
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/ModalEquip.png)
 
 
 #### Requisito atendido
@@ -19,6 +124,7 @@ RF-04: A aplicação deve permitir ao usuário fazer o cadastro de equipamentos
 
 - cadEquip.html
 - main.css
+- style.css
 - button.css
 - records.css
 - modal.css
@@ -36,54 +142,7 @@ Ao abrir a tela inicial da aplicação [index.html](https://github.com/ICEI-PUC-
 
 #### Responsável
 
-Heitor Cardoso
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
-
-### Título da funcionalidade
-
-[Adicione imagem da funcionalidade/tela]
+Heitor
 
 
-#### Requisito atendido
-
-[RF-X: adicione a descrição do requisito atendido]
-
-
-#### Artefatos da funcionalidade
-
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
-
-
-#### Estrutura de Dados
-
-[Caso exista estrutura de dados, adicione aqui]
-
-
-#### Instruções de acesso
-
-[Adicione as orientações de acesso à funcionalidade]
-
-
-#### Responsável
-
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
-
-
-
-
-
-
-> **Links Úteis**:
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
 

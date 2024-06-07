@@ -1,12 +1,30 @@
 # Template padrão da Aplicação
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+O layout padrão do site foi construído com as linguagens HTML e CSS, e a linguagem de programação JavaScript foi utilizada para a construção dos formulários de cadastro
 
-[Apresente a estrutura padrão da sua aplicação.]
+A paleta de tons verdes foi usada para criar um layout agradável
+<br>
+<br>
+## Menu de Navegação e Rodapé
+As páginas têm como elementos padrões o menu de navegação e o rodapé
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/TelaInicial.png)
+<br>
+<br>
+## Barra de Navegação Mobile
+Foi criada para se permitir a responsividade em diferentes telas
+
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/NavBar.png" width="600" height="600">
+</figure> 
+<br>
+<br>
+
+## Menu Navegação Perfil
+Na página de perfil do Usuário, foi criado um menu para a navegação entre o perfil do usuário, o cadastro e a lista dos equipamentos
+
+<figure> 
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/NavPerfil.png" width="300" height="350">
+</figure> 
+
+
