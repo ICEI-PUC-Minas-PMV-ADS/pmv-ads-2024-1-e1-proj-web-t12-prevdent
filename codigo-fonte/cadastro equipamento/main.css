@@ -5,8 +5,8 @@
 }
 
 :root{
-    --primary-color: #FFBA00;
-    --secundary-color: #FFF1CC;
+    --primary-color: #fdf2ca;
+    --secundary-color: #fff8e6;
     --shadow-color: #CCC;
     --text-color: #FFF;
 }
@@ -28,7 +28,7 @@ header{
 }
 
 .header-title{
-    color: black;
+    color: rgb(13, 40, 9);
     font-size: 2rem;
 }
 
@@ -39,8 +39,8 @@ main{
     align-items: flex-start;
     width: 90%;
     margin: 5vh auto;
-    padding: 50px;
-    box-shadow: 2px 2px 10px var(--shadow-color);
+    padding: 1px;
+    box-shadow: none;
     gap: 20px;
 }
 
@@ -51,6 +51,15 @@ footer{
     font-style: italic;
     padding: 20px;
 }
+
+#searchInput {
+    background-color: #c8f6c2;
+    color: #0f0a27;
+    border: 3px solid #df8f17;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
 
 @media (max-width:480px){
     header{
@@ -65,6 +74,5 @@ footer{
         padding: 0;
         margin: 20px 0 0 0;
         width:100%;
-        box-shadow: none;
     }
 }
