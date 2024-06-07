@@ -8,14 +8,14 @@ A paleta de tons verdes foi usada para criar um layout agradável
 ## Menu de Navegação e Rodapé
 As páginas têm como elementos padrões o menu de navegação e o rodapé
 
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/TelaInicial.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/TelaInicial1.png)
 <br>
 <br>
 ## Barra de Navegação Mobile
 Foi criada para se permitir a responsividade em diferentes telas
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/NavBar.png" width="600" height="600">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Navbar1.png" width="500" height="600">
 </figure> 
 <br>
 <br>
