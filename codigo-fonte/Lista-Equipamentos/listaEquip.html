@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Alana Barros Carvalho, Andre Tobias Souza da Silva, Heitor Cardoso, Luiz Paulo da Silva Duarte e Pedro Henrique Miguel Bullara Lemos">
+    <meta name="description" content="Tenha uma melhor gestão dos seus equipamentos!">
+    <meta name="keywords" content="odontologia, manutenção, equipamentos, dentes, economia">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="button.css">
+    <link rel="stylesheet" href="records.css">
+    <script src="listaEquip.js" defer></script>
+    <script src="mobile-navbar.js" defer ></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <title>Lista de Equipamentos</title>
+</head>
+
+<body>
+    <div class="grid-container">
+        <div class="item1">
+            <nav>
+                <a class="logo" href="index.html">Prevdent</a>
+                <div class="mobile-menu">
+                    <div class="line1"></div>
+                    <div class="line2"></div>
+                    <div class="line3"></div>
+                </div>
+                <ul class="nav-list">
+                    <li><a href="index.html">Início</a></li>
+                    <li><a href="index.html">Sobre</a></li>
+                    <li id="menu-cadastro"><a href="cadastre-se.html">Cadastre-se</a></li>
+                    <li id="menu-entrar"><a href="login.html">Entrar</a></li>
+                    <li id="menu-perfil"><a href="perfil.html">Perfil</a></li>
+                </ul>
+            </nav>
+        </div>
+            <header>
+                <h1 class="header-title">Lista de Equipamentos</h1>
+            </header>
+
+    <main>
+        <input type="text" id="searchInput" placeholder="Pesquisar equipamentos...">
+        <table id="tableEquip" class="records">
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Ano de fabricação</th>
+                    <th>Primeira manutenção</th>
+                    <th>Intervalo (dias)</th>
+                    <th id="tituloProximasManutencoes">Próximas Manutenções</th>
+                </tr>
+            </thead>
+            <tbody>
+
+            </tbody>
+        </table>
+    </main>
+    <footer class= "rodape">
+         <p>Copyright &#169 2024 Prevdent | Todos os direitos reservados.</p>
+    </footer>
+</body>
+
+</html>
