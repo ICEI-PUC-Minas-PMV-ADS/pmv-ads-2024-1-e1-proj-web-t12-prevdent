@@ -47,20 +47,28 @@
 
     <main>
         <button type="button" class="button blue mobile" id="cadastrarCliente">Cadastrar Novo</button>
-        <table id="tableEquip" class="records">
-            <thead>
-                <tr>
-                    <th>Nome</th>
-                    <th>Ano de fabricação</th>
-                    <th>Primeira manutenção</th>
-                    <th>Periodicidade</th>
-                    <th>Ação</th>
-                </tr>
-            </thead>
-            <tbody>
 
-            </tbody>
-        </table>
+        x
+        x
+        x
+        
+
+        <div id="container">
+            <table id="tableEquip" class="records">
+                <thead>
+                    <tr>
+                        <th data-title="Nome">Nome</th>
+                        <th data-title="Ano">Ano de fabricação</th>
+                        <th data-title="Primeira">Primeira manutenção</th>
+                        <th data-title="Periodicidade">Intervalo (dias)</th>
+                        <th data-title="Ação">Ação</th>
+                    </tr>
+                </thead>
+                <tbody>
+            
+                </tbody>
+            </table>
+        </div>
         <div class="modal" id="modal">
             <div class="modal-content">
                 <header class="modal-header">
@@ -73,13 +81,13 @@
                     <input type="text" id="fab" class="modal-field" placeholder="Ano de fabricação" required>
                     <input id="date" type="date" class="modal-field" placeholder="Primeira manutenção" required>
                     <select id ="period" name="opcoes" class="modal-field" required>
-                        <option value="null" disabled selected hidden>Periodicidade</option>
-                        <option value ="Diária" id="Diária">Diária</option>
-                        <option value = "Semanal" id="Semanal">Semanal</option>
-                        <option value = "Mensal" id="Mensal">Mensal</option>
-                        <option value = "Anual" id="Anual">Anual</option>
+                        <option value="null" disabled selected>Periodicidade (dias)</option>
+                        <option value ="1" id="Diária">1</option>
+                        <option value = "7" id="Semanal">7</option>
+                        <option value = "30" id="Mensal">30</option>
+                        <option value = "90" id="90dias">90</option>
+                        <option value = "365" id="Anual">365</option>
                     </select>
-                    <!--<input type="text" id="period" class="modal-field" placeholder="Periodicidade" required>-->
                 </form>
                 <footer class="modal-footer">
                     <button id="salvar" class="button green">Salvar</button>
@@ -88,7 +96,7 @@
             </div>
         </div>
     </main>
-    <footer>
+    <footer class = "rodape">
          <p>Copyright &#169 2024 Prevdent | Todos os direitos reservados.</p>
     </footer>
 </body>
