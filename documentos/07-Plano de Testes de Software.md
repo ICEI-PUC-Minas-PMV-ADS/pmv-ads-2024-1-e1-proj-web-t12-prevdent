@@ -96,7 +96,7 @@
       </ol>
     </td>
     <td>Todas as informações ficam disponíveis na página de cadastro dos equipamentos</td>
-    <td>Heitor</td>
+    <td>Alana</td>
   </tr>
 </table>
 
