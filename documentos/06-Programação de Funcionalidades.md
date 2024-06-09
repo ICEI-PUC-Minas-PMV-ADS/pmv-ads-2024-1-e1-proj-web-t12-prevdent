@@ -2,7 +2,7 @@
 
 ### Cadastro do Usuário (RF-01) - André
 
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/TelaCadastro.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/documentos/img/Telas/TelaCadastro.png)
 
 
 
@@ -21,7 +21,7 @@ RF-01: A aplicação deve permitir ao usuário cadastrar uma conta
 
 #### Estrutura de Dados
 
-[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/codigo-fonte/cadastre/cadastre-se.html)
+[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/cadastre/cadastre-se.html)
 
 
 #### Instruções de acesso
@@ -38,7 +38,7 @@ André
 
 ### Login do Usuário (RF-02) - Alana
 
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/TelaLogin.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/documentos/img/Telas/TelaLogin.png)
 
 
 
@@ -73,7 +73,7 @@ Alana
 
 ### Página Perfil (RF-10) - Luiz
 
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/TelaPerfil.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/documentos/img/Telas/TelaPerfil.png)
 
 
 
@@ -91,7 +91,7 @@ RF-10: A aplicação deve permitir ao usuário verificar as informações regist
 
 #### Estrutura de Dados
 
-[perfil.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/codigo-fonte/perfil/perfil.html)
+[perfil.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/perfil/perfil.html)
 
 
 #### Instruções de acesso
@@ -109,10 +109,10 @@ Luiz
 
 ### Cadastro de Equipamentos (RF-04) - Heitor
 
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/CadEquip.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/documentos/img/Telas/CadEquip.png)
 <br>
 <br>
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/ModalEquip.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/documentos/img/Telas/ModalEquip.png)
 
 
 #### Requisito atendido
@@ -151,7 +151,7 @@ Heitor
 
 ### Lista de Equipamentos (RF-17) - Heitor
 
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/ListaEquip.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/documentos/img/Telas/ListaEquip.png)
 
 
 
@@ -172,7 +172,7 @@ RF-17: A aplicação deve permitir ao usuário acessar a lista de equipamentos j
 
 #### Estrutura de Dados
 
-[listaEquip.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/codigo-fonte/Lista-Equipamentos/listaEquip.html)
+[listaEquip.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/Lista-Equipamentos/listaEquip.html)
 
 
 #### Instruções de acesso
@@ -189,9 +189,9 @@ Heitor
 <br>
 
 
-### Login do Usuário (RF-03) - Alana
+### Filtro de Pesquisa (RF-03) - Alana
 
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/ListaFiltro.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/documentos/img/Telas/ListaFiltro.png)
 
 
 
@@ -213,7 +213,7 @@ RF-03: A aplicação deve oferecer uma funcionalidade de filtro/pesquisa para pe
 
 #### Estrutura de Dados
 
-[listaEquip.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/login/login.html)
+[listaEquip.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/Lista-Equipamentos/listaEquip.html)
 
 
 #### Instruções de acesso
@@ -224,14 +224,18 @@ Ao abrir a tela inicial da aplicação [index.html](https://github.com/ICEI-PUC-
 Alana
 
 
-main
 
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/ListaProx.png)
+<br>
+<br>
+<br>
+<br>
 
 
-### Login do Usuário (RF-05) - Andre
+### Próximas Manutenções (RF-05) - Andre
 
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/documentos/img/Telas/ListaProx.png)
 #### Requisito atendido
+
 
 RF-05: A aplicação deve permitir ao usuário disponibilizar informações das manutenções preventivas previstas.
 
@@ -249,7 +253,7 @@ RF-05: A aplicação deve permitir ao usuário disponibilizar informações das 
 
 #### Estrutura de Dados
 
-[listaEquip.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/login/listaEquip.html)
+[listaEquip.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/Lista-Equipamentos/listaEquip.html)
 
 
 #### Instruções de acesso
@@ -258,10 +262,13 @@ Ao abrir a tela inicial da aplicação [index.html](https://github.com/ICEI-PUC-
 #### Responsável
 
 Andre
+<br>
+<br>
+<br>
+<br>
+### Alerta de Manutenção (RF-13) - Luiz
 
-### Login do Usuário (RF-13) - Luiz
-
-![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/alerta1.png)
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/documentos/img/Telas/alerta1.png)
 
 #### Requisito atendido
 
@@ -281,7 +288,7 @@ RF-13:A aplicação deve ser capaz de enviar um Alerta da necessidade de determi
 
 #### Estrutura de Dados
 
-[listaEquip.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/login/listaEquip.html)
+[listaEquip.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/Lista-Equipamentos/listaEquip.html)
 
 
 #### Instruções de acesso
