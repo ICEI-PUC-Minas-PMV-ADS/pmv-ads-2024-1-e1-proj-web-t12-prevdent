@@ -1,8 +1,7 @@
-
 const getLocalStorage = () => JSON.parse(localStorage.getItem('db_equip')) ?? []
 const setLocalStorage = (dbEquip) => localStorage.setItem("db_equip", JSON.stringify(dbEquip))
 
-
+// CRUD - create read update delete
 
 
 const readEquip = () => getLocalStorage()
@@ -17,8 +16,7 @@ const createEquip = (equip) => {
 const createRow = (equip, index) => {
   const newRow = document.createElement('tr');
   const dataFormatada = new Date(equip.date).toLocaleDateString('pt-BR');
-  const proximasManutencoes = criarProximasManutencoes(equip.date, equip.period, 4);
-  
+  const proximasManutencoes = criarProximasManutencoes(equip.date, equip.period, 4);
   newRow.innerHTML = `
       <td>${equip.nome}</td>
       <td>${equip.fab}</td>
@@ -28,11 +26,10 @@ const createRow = (equip, index) => {
         <ol style="list-style: none; padding-left: 0;">
           ${proximasManutencoes.map(data => <li style="margin-bottom: 7px;">${data}</li>).join('')}
         </ol>
-      </td>`;          
+      </td>`;
  
     document.querySelector('#tableEquip>tbody').appendChild(newRow);
 }
-
 
 const criarProximasManutencoes = (date, period, count) => {
   const proximasManutencoes = [];
@@ -45,6 +42,26 @@ const criarProximasManutencoes = (date, period, count) => {
   }
 
   return proximasManutencoes;
+};
+
+
+
+const checkMaintenanceDates = () => {
+  const dbEquip = readEquip();
+  const today = new Date().toLocaleDateString('pt-BR');
+
+  let manutencoesHoje = false;
+
+  dbEquip.forEach(equip => {
+      const proximasManutencoes = criarProximasManutencoes(equip.date, equip.period, 4);
+      proximasManutencoes.forEach(dataManutencao => {
+          if (dataManutencao === today) {
+              manutencoesHoje = true;
+          }
+      });
+  });
+
+  return manutencoesHoje;
 };
 
 
@@ -70,15 +87,35 @@ const filterEquip = (term) => {
     });
     return filteredEquip;
 };
- 
+
 const handleSearch = () => {
     const searchTerm = document.getElementById('searchInput').value;
     const filteredEquip = filterEquip(searchTerm);
     clearTable();
     filteredEquip.forEach(createRow);
 };
- 
+
 document.getElementById('searchInput').addEventListener('input', handleSearch);
+
+if (checkMaintenanceDates()) {
+  document.getElementById('warningButton').style.display = 'block';
+  document.getElementById('warningButton').addEventListener('click', function() {
+      const dbEquip = readEquip();
+      const today = new Date().toLocaleDateString('pt-BR');
+      
+      dbEquip.forEach(equip => {
+          const proximasManutencoes = criarProximasManutencoes(equip.date, equip.period, 4);
+          proximasManutencoes.forEach(dataManutencao => {
+              if (dataManutencao === today) {
+                  alert(Hoje é o dia da manutenção para o equipamento ${equip.nome}.);
+              }
+          });
+      });
+  });
+} else {
+  document.getElementById('warningButton').style.display = 'none';
+}
+
 
 
 // Eventos
