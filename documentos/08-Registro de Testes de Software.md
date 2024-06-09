@@ -22,7 +22,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevden
 
   <hr>  
   
-  <li> CT-03: Cadastro de equipamentos, Lista de equipamentos e Filtro de equipamentos.
+  <li> CT-03, 04 e 05: Cadastro de equipamentos, Lista de equipamentos e Filtro de equipamentos.
 
   Responsável: Luiz Paulo. 
   
