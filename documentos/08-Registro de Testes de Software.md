@@ -14,7 +14,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevden
   </li>
   <hr>  
   
-  <li> CT-02: Verificar o funcionamento do cadastrp e login.
+  <li> CT-02: Verificar o funcionamento do cadastro e login.
 
   Responsável: Alana Carvalho.
 
@@ -27,5 +27,8 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevden
   Responsável: Luiz Paulo. 
   
  https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/assets/164085443/9d4c1cb9-6870-4bca-b856-3f709edc917a
+Luiz-Paulo
+=======
   
  
+main
