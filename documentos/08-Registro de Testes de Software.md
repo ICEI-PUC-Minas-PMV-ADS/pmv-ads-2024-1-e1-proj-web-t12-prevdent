@@ -9,7 +9,8 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
 
 Responsável: Andre.
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/assets/153339951/0148bf6e-5274-4546-9320-42352165fe45
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/assets/153339951/c648bace-f92f-4abe-8893-ef7470eb880e
+
 
   </li>
   <hr>
