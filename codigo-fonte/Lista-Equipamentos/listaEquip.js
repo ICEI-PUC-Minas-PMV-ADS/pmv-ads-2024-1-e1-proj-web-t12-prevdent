@@ -17,28 +17,35 @@ const createEquip = (equip) => {
 const createRow = (equip, index) => {
   const newRow = document.createElement('tr');
   const dataFormatada = new Date(equip.date).toLocaleDateString('pt-BR');
-  
-x
+  const proximasManutencoes = criarProximasManutencoes(equip.date, equip.period, 4);
   
   newRow.innerHTML = `
       <td>${equip.nome}</td>
       <td>${equip.fab}</td>
       <td>${dataFormatada}</td>
       <td>${equip.period}</td>
-
-      x
-      x
-      x
-    
+      <td>
+        <ol style="list-style: none; padding-left: 0;">
+          ${proximasManutencoes.map(data => <li style="margin-bottom: 7px;">${data}</li>).join('')}
+        </ol>
+      </td>`;          
  
     document.querySelector('#tableEquip>tbody').appendChild(newRow);
 }
 
 
-x
-x
-x
+const criarProximasManutencoes = (date, period, count) => {
+  const proximasManutencoes = [];
+  let data = new Date(date);
+  
+  for (let i = 0; i < count; i++) {
+    data.setDate(data.getDate() + parseInt(period));
+    const dataFormatada = data.toLocaleDateString('pt-BR');
+    proximasManutencoes.push(dataFormatada);
+  }
 
+  return proximasManutencoes;
+};
 
 
 const clearTable = () => {
