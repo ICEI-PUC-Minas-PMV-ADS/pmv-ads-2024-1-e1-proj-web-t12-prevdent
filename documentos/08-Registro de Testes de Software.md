@@ -33,6 +33,9 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevden
   Responsável: Heitor Cardoso. 
 
   Caso haja manutenção no dia atual, um botão de alerta aparece na página "lista de equipamentos". Caso não haja, o botão fica invisível. Ao clicar-se no botão, aparece a mensagem com o nome do equipamento a receber a manutenção.
+  <br>
+  <br>
+  <br>
   
   ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/documentos/img/Telas/alerta1.png)
 
