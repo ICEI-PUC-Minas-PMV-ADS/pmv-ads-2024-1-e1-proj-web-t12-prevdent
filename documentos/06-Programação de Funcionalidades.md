@@ -188,6 +188,9 @@ Heitor
 <br>
 <br>
 
+André-Tobias
+### Login do Usuário (RF-05) - Andre
+=======
 ### Login do Usuário (RF-03) - Alana
 
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/ListaFiltro.png)
@@ -223,5 +226,36 @@ Ao abrir a tela inicial da aplicação [index.html](https://github.com/ICEI-PUC-
 Alana
 
 
+main
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/ListaProx.png)
 
 
+
+#### Requisito atendido
+
+RF-05: A aplicação deve permitir ao usuário disponibilizar informações das manutenções preventivas previstas.
+
+
+
+#### Artefatos da funcionalidade
+
+- listaEquip.html
+- main.css
+- style.css
+- button.css
+- records.css
+- listaEquip.js
+
+
+#### Estrutura de Dados
+
+[listaEquip.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/login/listaEquip.html)
+
+
+#### Instruções de acesso
+
+Ao abrir a tela inicial da aplicação [index.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/index/index.html), o usuário deve realizar seu cadastro e posteriormente realizar seu login. Na página de Perfil, a opção "lista de equipamentos" estará no menu lateral esquerdo. Clicando-se sobre ela, será aberta a janela dos equipamentos já cadastrados. As datas das proximas manutenções estarão na ultima coluna da tabela. 
+#### Responsável
+
+Andre
