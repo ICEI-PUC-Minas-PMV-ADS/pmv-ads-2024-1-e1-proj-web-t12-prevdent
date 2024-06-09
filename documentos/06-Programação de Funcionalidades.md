@@ -188,9 +188,6 @@ Heitor
 <br>
 <br>
 
-André-Tobias
-### Login do Usuário (RF-05) - Andre
-=======
 ### Login do Usuário (RF-03) - Alana
 
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/ListaFiltro.png)
@@ -226,7 +223,8 @@ Ao abrir a tela inicial da aplicação [index.html](https://github.com/ICEI-PUC-
 Alana
 
 
-main
+
+### Login do Usuário (RF-05) - Andre
 
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/ListaProx.png)
 
