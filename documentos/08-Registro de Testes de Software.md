@@ -28,3 +28,12 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevden
   
  https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/assets/164085443/9d4c1cb9-6870-4bca-b856-3f709edc917a
 
+  <li> CT-06: Verificar o funcionamento do alerta de manutenção.
+
+  Responsável: Heitor Cardoso. 
+
+  Caso haja manutenção no dia atual, um botão de alerta aparece na página "lista de equipamentos". Caso não haja, o botão fica invisível. Ao clicar-se no botão, aparece a mensagem com o nome do equipamento a receber a manutenção.
+  
+  ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/documentos/img/Telas/alerta1.png)
+
+   
