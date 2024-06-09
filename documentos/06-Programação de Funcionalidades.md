@@ -188,9 +188,7 @@ Heitor
 <br>
 <br>
 
-André-Tobias
-### Login do Usuário (RF-05) - Andre
-=======
+
 ### Login do Usuário (RF-03) - Alana
 
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/ListaFiltro.png)
@@ -231,6 +229,7 @@ main
 ![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/ListaProx.png)
 
 
+### Login do Usuário (RF-05) - Andre
 
 #### Requisito atendido
 
@@ -259,3 +258,35 @@ Ao abrir a tela inicial da aplicação [index.html](https://github.com/ICEI-PUC-
 #### Responsável
 
 Andre
+
+### Login do Usuário (RF-13) - Luiz
+
+![](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/Heitor-Cardoso/documentos/img/Telas/alerta1.png)
+
+#### Requisito atendido
+
+RF-13:A aplicação deve ser capaz de enviar um Alerta da necessidade de determinada manutenção preventiva.
+
+
+
+#### Artefatos da funcionalidade
+
+- listaEquip.html
+- main.css
+- style.css
+- button.css
+- records.css
+- listaEquip.js
+
+
+#### Estrutura de Dados
+
+[listaEquip.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/login/listaEquip.html)
+
+
+#### Instruções de acesso
+
+Ao abrir a tela inicial da aplicação [index.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/blob/main/codigo-fonte/index/index.html), o usuário deve realizar seu cadastro e posteriormente realizar seu login. Na página de Perfil, a opção "lista de equipamentos" estará no menu lateral esquerdo. Clicando-se sobre ela, será aberta a janela dos equipamentos já cadastrados. Caso haja manutenção no dia atual, um botão de alerta aparece na página "lista de equipamentos". Caso não haja, o botão fica invisível. Ao clicar-se no botão, aparece a mensagem com o nome do equipamento a receber a manutenção.
+#### Responsável
+
+Luiz
