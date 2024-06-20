@@ -1,0 +1,49 @@
+.records {
+    width: 100%;
+    user-select: none;
+    text-align: left;
+}
+
+.records th {
+    height: 50px;
+    background-color: var(--primary-color);
+    padding-left: 20px;
+    font-size: 1.2rem;    
+}
+
+.records td {
+    position: relative;
+    height: 50px;
+    padding-left: 20px;
+}
+
+.records th:last-child,
+.records td:last-child {
+    padding: 0;
+    min-width: 140px;
+    text-align: center;
+}
+
+.records tr:hover {
+    background-color: var(--secundary-color);
+}
+
+/* Estilos para telas menores que 750px */
+@media(max-width: 750px) {
+    .button {
+        padding: 10px 20px; /* Ajusta o padding dos botões para telas menores */
+        font-size: 15px; /* Reduz o tamanho da fonte dos botões */
+        margin-bottom: 10px; /* Adiciona espaçamento entre os botões */
+    }
+
+    .records th,
+    .records td {
+        font-size: 14px; /* Reduz o tamanho da fonte nas células da tabela */
+        padding: 8px; /* Ajusta o padding das células da tabela */
+    }
+
+    .modal-content {
+        width: 80%; /* Reduz a largura do modal para telas menores */
+        margin: auto; /* Centraliza o modal na tela */
+    }
+}
