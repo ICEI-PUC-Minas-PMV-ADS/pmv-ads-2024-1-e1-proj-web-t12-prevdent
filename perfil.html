@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Alana Barros Carvalho, Andre Tobias Souza da Silva, Heitor Cardoso, Luiz Paulo da Silva Duarte e Pedro Henrique Miguel Bullara Lemos">
+    <meta name="description" content="Tenha uma melhor gestão dos seus equipamentos!">
+    <meta name="keywords" content="odontologia, manutenção, equipamentos, dentes, economia">
+    <title>Prevdent</title>
+    <link rel="stylesheet" href="stylePerfil.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+</head>
+<body>
+  <div class="grid-container">
+    <div class="item1">
+      <header>
+        <nav>
+            <a class="logo" href="index.html">Prevdent</a>
+            <div class="mobile-menu">
+                <div class="line1"></div>
+                <div class="line2"></div>
+                <div class="line3"></div>
+            </div>
+            <ul class="nav-list">
+                <li><a href="index.html">Início</a></li>
+                <li><a href="index.html">Sobre Nós</a></li>
+                <li id="menu-cadastro"><a href="cadastre-se.html">Cadastre-se</a></li>
+                <li id="menu-entrar"><a href="login.html">Entrar</a></li>
+                <li id="menu-perfil"><a href="perfil.html">Perfil</a></li>
+            </ul>
+        </nav>
+      </header>
+    </div>
+
+    <!-- MENU LATERAL -->
+    <section class="menu">
+      <div class="profile-sidebar">
+        <div class="profile-usertitle">
+          <div class="profile-usertitle-name">
+            Olá, <span id="nomeTitulo">!<span>
+          </div>
+        </div>
+
+        <div class="profile-usermenu">
+          <ul class="nav">
+            <li class="active">
+              <a href="perfil.html">
+                <img src="../img/img-usuario.jpg" alt="Perfil">
+                Perfil</a>
+            </li>
+            <li>
+              <a href="cadEquip.html">
+                <img src="../img/cad.jpg" alt="Cadastro">
+                Cadastro de Equipamentos</a>
+            </li>
+            <li>
+              <a href="listaEquip.html">
+                <img src="../img/calend.jpg" alt="Lista Equipamentos">
+                Lista de Equipamentos</a>
+            </li>
+            <li>
+              <a href="index.html" onclick="return sair()">
+                <img src="../img/saida.jpg" alt="Sair">
+                Sair</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+
+    <!-- FORMULÁRIO -->
+    <main>
+      <div style="overflow-x: auto;" class="col-md-9">
+        <div class="profile-content">
+          <div class="cadastrar">
+            <h1 class="cad-um">Perfil</h1>
+            <table class="table table-striped">
+              <tbody>
+                <tr>
+                  <th class="info">Nome completo</th>
+                  <td id="nome" value=""></td>
+                </tr>
+                <tr>
+                  <th class="info">E-mail</th>
+                  <td id="email" value=""></td>
+                </tr>
+                <tr>
+                  <th class="info">Telefone</th>
+                  <td id="telefone" value=""></td>
+                </tr>
+                <tr>
+                  <th class="info">Nome da empresa</th>
+                  <td id="instituicao" value=""></td>
+                </tr>
+                <tr>
+                  <th class="info">Categoria</th>
+                  <td id="categoria" value=""></td>
+                </tr>
+                <tr>
+                  <th class="info">Endereço</th>
+                  <td id="endereco" value=""></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer class="rodape-perfil">
+      <p>Copyright &#169 2024 Prevdent | Todos os direitos reservados.</p>
+    </footer>
+    <script src="mobile-navbar.js"></script>
+    <script src="perfil.js"></script>
+</body>
+
+</html>
