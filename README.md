@@ -36,7 +36,7 @@ O projeto envolve a criação de uma aplicação web de fácil acesso e uso que 
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+* <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t12-prevdent/">Clique para abrir o site</a>
 
 # Código-Fonte
 
