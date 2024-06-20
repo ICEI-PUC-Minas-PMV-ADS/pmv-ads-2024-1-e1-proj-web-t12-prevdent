@@ -1,3 +1,4 @@
+
 const getLocalStorage = () => JSON.parse(localStorage.getItem('db_equip')) ?? []
 const setLocalStorage = (dbEquip) => localStorage.setItem("db_equip", JSON.stringify(dbEquip))
 
@@ -24,7 +25,7 @@ const createRow = (equip, index) => {
       <td>${equip.period}</td>
       <td>
         <ol style="list-style: none; padding-left: 0;">
-          ${proximasManutencoes.map(data => <li style="margin-bottom: 7px;">${data}</li>).join('')}
+          ${proximasManutencoes.map(data => `<li style="margin-bottom: 7px;">${data}</li>`).join('')}
         </ol>
       </td>`;
  
@@ -107,7 +108,7 @@ if (checkMaintenanceDates()) {
           const proximasManutencoes = criarProximasManutencoes(equip.date, equip.period, 4);
           proximasManutencoes.forEach(dataManutencao => {
               if (dataManutencao === today) {
-                  alert(Hoje é o dia da manutenção para o equipamento ${equip.nome}.);
+                  alert(`Hoje é o dia da manutenção para o equipamento ${equip.nome}.`);
               }
           });
       });
@@ -133,3 +134,4 @@ document.querySelector('#tableEquip>tbody')
 
 document.getElementById('cancelar')
 .addEventListener('click', closeModal)
+
