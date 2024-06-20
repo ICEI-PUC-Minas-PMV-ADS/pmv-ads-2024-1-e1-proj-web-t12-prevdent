@@ -50,7 +50,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t12-prevdent/tree/main/documentos                            |
 | Projeto de Interface                | Figma                              | https://www.figma.com/file/bSCLPw3WbJxchWmUup0mll/Prevdent?type=design&node-id=1669%3A162202&mode=design&t=REJ1f1GwsVcmzfqF-1                           |
 | Gerenciamento do Projeto            | GitHub Projects                    | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/986/views/1                           |
-| Hospedagem                          | GitHub Pages                       | http://....                            |
+| Hospedagem                          | GitHub Pages                       | https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t12-prevdent/                            |
 
 
 ### Estratégia de Organização de Codificação 
