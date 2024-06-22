@@ -9,3 +9,7 @@
 ## 2. Vídeo de apresentação do projeto (Etapas 1 e 2)
 
 Link para o Youtube: (https://www.youtube.com/watch?v=GMFOceQ1tzI)
+
+## 3. Vídeo de apresentação do projeto (Etapa 5)
+
+Link para o Youtube: (https://www.youtube.com/watch?v=yz7aIbMWRZg)
